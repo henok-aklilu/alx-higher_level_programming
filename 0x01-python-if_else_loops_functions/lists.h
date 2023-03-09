@@ -7,7 +7,7 @@
  * @next: points to the next node
  *
  * Description: singly linked list node structure
- * for alx project
+ * for Holberton project
  */
 typedef struct listint_s
 {
@@ -22,4 +22,3 @@ void free_listint(listint_t *head);
 listint_t *insert_node(listint_t **head, int number);
 
 #endif /* LISTS_H */
-
