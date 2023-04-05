@@ -6,4 +6,3 @@
 class Rectangle:
     """ Sekeleton for Rectangle Class
     """
-
