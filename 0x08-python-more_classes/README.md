@@ -1,1 +1,1 @@
-0x08-python-more_classes
+This project is **0x08-python-more_classes**
